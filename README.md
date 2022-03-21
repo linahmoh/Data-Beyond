@@ -1,2 +1,3 @@
 # Data-Beyond
-online tool to extract Arabic dialectal data
+Online tool to extract Arabic dialectal data form scripts
+
